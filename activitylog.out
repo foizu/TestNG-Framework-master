@@ -1,0 +1,922 @@
+2018-03-02 14:10:32 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:10:32 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:10:32 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:10:36 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 14:10:36 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:10:36 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:10:37 INFO  TestBase:29 - Verified page title and url
+2018-03-02 14:10:38 INFO  TestBase:43 - Input zip code information: 11201
+2018-03-02 14:10:39 INFO  TestBase:57 - Input number of professionals needed for project: 3
+2018-03-02 14:10:41 INFO  TestBase:71 - Input ladder option if necessary: No
+2018-03-02 14:10:42 INFO  TestBase:85 - Input project details if necessary: Project details go here
+2018-03-02 14:10:44 INFO  TestBase:115 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 14:10:53 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:10:53 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:10:54 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:11:00 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 14:11:00 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:11:00 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:11:00 INFO  TestBase:29 - Verified page title and url
+2018-03-02 14:11:01 INFO  TestBase:43 - Input zip code information
+2018-03-02 14:11:03 INFO  TestBase:57 - Input number of bed rooms for project
+2018-03-02 14:11:04 INFO  TestBase:71 - Input number of bath rooms for project
+2018-03-02 14:11:05 INFO  TestBase:92 - Input date and time of project
+2018-03-02 14:11:06 INFO  TestBase:106 - Input email address information
+2018-03-02 14:11:15 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:11:15 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:11:15 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:11:21 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 14:11:21 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:11:21 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:23:39 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:23:39 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:23:39 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:23:44 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 14:23:44 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:23:44 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:23:44 INFO  TestBase:28 - === PaintingPageTest Beginning ===
+2018-03-02 14:23:44 INFO  TestBase:29 - Verified page title and url
+2018-03-02 14:23:44 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 14:23:44 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 14:23:46 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 14:23:47 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 14:23:48 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 14:23:49 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 14:23:52 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 14:23:52 INFO  TestBase:42 - === PaintingPageTest Ending ===
+2018-03-02 14:24:00 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:24:00 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:24:00 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:24:04 INFO  TestBase:115 - Retrieving and navigating to url: https://www.amazon.com/
+2018-03-02 14:24:04 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:24:04 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:24:25 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:24:25 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:24:26 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:24:33 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 14:24:33 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:24:34 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:24:34 INFO  TestBase:28 - === CleaningPageTest Beginning ===
+2018-03-02 14:24:34 INFO  TestBase:29 - Verified page title and url
+2018-03-02 14:24:34 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 14:24:34 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 14:24:35 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 14:24:36 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 14:24:38 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 14:24:39 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 14:24:40 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 14:24:40 INFO  TestBase:42 - === CleaningPageTest Ending ===
+2018-03-02 14:24:48 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:24:48 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:24:48 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:24:55 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 14:24:55 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:24:55 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:24:55 INFO  TestBase:28 - === AssemblyPageTest Beginning ===
+2018-03-02 14:24:55 INFO  TestBase:30 - Verified page title and url
+2018-03-02 14:24:55 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 14:24:55 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 14:24:57 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 14:25:18 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 14:25:40 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 14:26:01 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 14:26:02 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 14:26:05 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 14:26:05 INFO  TestBase:44 - === AseemblyPageTest Ending ===
+2018-03-02 14:29:25 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:29:25 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:29:26 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:29:31 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 14:29:31 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:29:31 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:29:31 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 14:29:31 INFO  TestBase:30 - === PaintingPageTest Beginning ===
+2018-03-02 14:29:31 INFO  TestBase:29 - Verified page title and url
+2018-03-02 14:29:31 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 14:29:31 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 14:29:32 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 14:29:34 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 14:29:35 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 14:29:36 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 14:29:38 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 14:29:38 INFO  TestBase:44 - === PaintingPageTest Ending ===
+2018-03-02 14:29:38 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 14:29:48 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:29:48 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:29:48 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:29:53 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 14:29:53 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:29:53 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:29:53 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 14:29:53 INFO  TestBase:30 - === CleaningPageTest Beginning ===
+2018-03-02 14:29:54 INFO  TestBase:29 - Verified page title and url
+2018-03-02 14:29:54 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 14:29:54 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 14:29:55 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 14:29:56 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 14:29:58 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 14:29:59 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 14:30:00 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 14:30:00 INFO  TestBase:44 - === CleaningPageTest Ending ===
+2018-03-02 14:30:00 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 14:30:09 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 14:30:09 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 14:30:09 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 14:30:15 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 14:30:15 INFO  TestBase:119 - Page load timeout set
+2018-03-02 14:30:15 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 14:30:15 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 14:30:15 INFO  TestBase:30 - === AssemblyPageTest Beginning ===
+2018-03-02 14:30:15 INFO  TestBase:30 - Verified page title and url
+2018-03-02 14:30:15 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 14:30:15 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 14:30:16 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 14:30:38 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 14:30:59 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 14:31:21 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 14:31:22 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 14:31:25 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 14:31:25 INFO  TestBase:46 - === AseemblyPageTest Ending ===
+2018-03-02 14:31:25 INFO  TestBase:48 - ==================================================================
+
+2018-03-02 15:59:22 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 15:59:22 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 15:59:22 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 15:59:28 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 15:59:28 INFO  TestBase:119 - Page load timeout set
+2018-03-02 15:59:28 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 15:59:28 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 15:59:28 INFO  TestBase:30 - === AssemblyPageTest Beginning ===
+2018-03-02 15:59:28 INFO  TestBase:30 - Verified page title and url
+2018-03-02 15:59:28 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 15:59:28 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 15:59:29 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 15:59:51 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 16:00:12 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 16:00:34 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 16:00:35 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 16:00:37 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 16:00:37 INFO  TestBase:46 - === AseemblyPageTest Ending ===
+2018-03-02 16:00:37 INFO  TestBase:48 - ==================================================================
+
+2018-03-02 16:00:44 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 16:00:44 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 16:00:44 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 16:00:50 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 16:00:50 INFO  TestBase:119 - Page load timeout set
+2018-03-02 16:00:50 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 16:00:50 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 16:00:50 INFO  TestBase:30 - === CleaningPageTest Beginning ===
+2018-03-02 16:00:50 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:00:50 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 16:00:50 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 16:00:51 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 16:00:52 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 16:00:54 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 16:00:55 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 16:00:56 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 16:00:56 INFO  TestBase:44 - === CleaningPageTest Ending ===
+2018-03-02 16:00:56 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 16:01:04 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 16:01:04 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 16:01:04 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 16:01:09 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 16:01:09 INFO  TestBase:119 - Page load timeout set
+2018-03-02 16:01:09 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 16:01:09 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 16:01:09 INFO  TestBase:30 - === PaintingPageTest Beginning ===
+2018-03-02 16:01:09 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:01:09 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 16:01:09 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 16:01:10 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 16:01:11 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 16:01:13 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 16:01:14 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 16:01:16 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 16:01:16 INFO  TestBase:44 - === PaintingPageTest Ending ===
+2018-03-02 16:01:16 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 16:04:02 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 16:04:02 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 16:04:02 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 16:04:07 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 16:04:07 INFO  TestBase:119 - Page load timeout set
+2018-03-02 16:04:07 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 16:04:07 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 16:04:07 INFO  TestBase:30 - === AssemblyPageTest Beginning ===
+2018-03-02 16:04:07 INFO  TestBase:30 - Verified page title and url
+2018-03-02 16:04:07 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 16:04:07 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 16:04:09 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 16:04:30 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 16:04:52 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 16:05:14 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 16:05:15 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 16:05:18 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 16:05:18 INFO  TestBase:46 - === AseemblyPageTest Ending ===
+2018-03-02 16:05:18 INFO  TestBase:48 - ==================================================================
+
+2018-03-02 16:05:23 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 16:05:23 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 16:05:23 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 16:05:28 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 16:05:28 INFO  TestBase:119 - Page load timeout set
+2018-03-02 16:05:28 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 16:05:28 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 16:05:28 INFO  TestBase:30 - === CleaningPageTest Beginning ===
+2018-03-02 16:05:28 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:05:28 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 16:05:28 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 16:05:30 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 16:05:31 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 16:05:32 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 16:05:34 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 16:05:35 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 16:05:35 INFO  TestBase:44 - === CleaningPageTest Ending ===
+2018-03-02 16:05:35 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 16:05:43 INFO  TestBase:85 - Initializating firefox browser
+2018-03-02 16:05:43 INFO  TestBase:107 - Deleting all cookies for fresh sesssion
+2018-03-02 16:05:43 INFO  TestBase:111 - Maximizing browser for visibility
+2018-03-02 16:05:48 INFO  TestBase:115 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 16:05:48 INFO  TestBase:119 - Page load timeout set
+2018-03-02 16:05:48 INFO  TestBase:123 - Implicit wait timeout set
+2018-03-02 16:05:48 INFO  TestBase:28 - ==================================================================
+
+2018-03-02 16:05:48 INFO  TestBase:30 - === PaintingPageTest Beginning ===
+2018-03-02 16:05:48 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:05:48 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 16:05:48 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 16:05:49 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 16:05:51 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 16:05:52 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 16:05:53 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 16:05:55 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 16:05:55 INFO  TestBase:44 - === PaintingPageTest Ending ===
+2018-03-02 16:05:55 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 16:09:43 INFO  TestBase:69 - ==================================================================
+
+2018-03-02 16:09:50 INFO  TestBase:87 - Initializating firefox browser
+2018-03-02 16:09:50 INFO  TestBase:109 - Deleting all cookies for fresh sesssion
+2018-03-02 16:09:50 INFO  TestBase:113 - Maximizing browser for visibility
+2018-03-02 16:09:55 INFO  TestBase:117 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 16:09:55 INFO  TestBase:121 - Page load timeout set
+2018-03-02 16:09:55 INFO  TestBase:125 - Implicit wait timeout set
+2018-03-02 16:09:55 INFO  TestBase:30 - === AssemblyPageTest Beginning ===
+2018-03-02 16:09:55 INFO  TestBase:30 - Verified page title and url
+2018-03-02 16:09:55 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 16:09:55 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 16:09:57 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 16:10:18 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 16:10:40 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 16:11:01 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 16:11:02 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 16:11:05 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 16:11:05 INFO  TestBase:46 - === AseemblyPageTest Ending ===
+2018-03-02 16:11:05 INFO  TestBase:48 - ==================================================================
+
+2018-03-02 16:11:05 INFO  TestBase:69 - ==================================================================
+
+2018-03-02 16:11:11 INFO  TestBase:87 - Initializating firefox browser
+2018-03-02 16:11:11 INFO  TestBase:109 - Deleting all cookies for fresh sesssion
+2018-03-02 16:11:11 INFO  TestBase:113 - Maximizing browser for visibility
+2018-03-02 16:11:16 INFO  TestBase:117 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 16:11:16 INFO  TestBase:121 - Page load timeout set
+2018-03-02 16:11:16 INFO  TestBase:125 - Implicit wait timeout set
+2018-03-02 16:11:16 INFO  TestBase:30 - === CleaningPageTest Beginning ===
+2018-03-02 16:11:16 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:11:16 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 16:11:16 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 16:11:18 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 16:11:19 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 16:11:21 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 16:11:22 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 16:11:23 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 16:11:23 INFO  TestBase:44 - === CleaningPageTest Ending ===
+2018-03-02 16:11:23 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 16:11:26 INFO  TestBase:69 - ==================================================================
+
+2018-03-02 16:11:31 INFO  TestBase:87 - Initializating firefox browser
+2018-03-02 16:11:31 INFO  TestBase:109 - Deleting all cookies for fresh sesssion
+2018-03-02 16:11:31 INFO  TestBase:113 - Maximizing browser for visibility
+2018-03-02 16:11:36 INFO  TestBase:117 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 16:11:36 INFO  TestBase:121 - Page load timeout set
+2018-03-02 16:11:36 INFO  TestBase:125 - Implicit wait timeout set
+2018-03-02 16:11:36 INFO  TestBase:30 - === PaintingPageTest Beginning ===
+2018-03-02 16:11:36 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:11:36 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 16:11:36 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 16:11:37 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 16:11:39 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 16:11:40 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 16:11:41 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 16:11:43 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 16:11:43 INFO  TestBase:44 - === PaintingPageTest Ending ===
+2018-03-02 16:11:43 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 16:14:10 INFO  TestBase:73 - === Browser Setup Starting ===
+
+2018-03-02 16:14:17 INFO  TestBase:89 - Initializating firefox browser
+2018-03-02 16:14:17 INFO  TestBase:111 - Deleting all cookies for fresh sesssion
+2018-03-02 16:14:17 INFO  TestBase:115 - Maximizing browser for visibility
+2018-03-02 16:14:23 INFO  TestBase:119 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 16:14:23 INFO  TestBase:123 - Page load timeout set
+2018-03-02 16:14:23 INFO  TestBase:127 - Implicit wait timeout set
+2018-03-02 16:14:23 INFO  TestBase:129 - === Browser Setup Initialized ===
+
+2018-03-02 16:14:23 INFO  TestBase:30 - ==================================================================
+
+2018-03-02 16:14:23 INFO  TestBase:32 - === AssemblyPageTest Starting ===
+2018-03-02 16:14:23 INFO  TestBase:30 - Verified page title and url
+2018-03-02 16:14:23 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 16:14:23 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 16:14:24 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 16:14:46 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 16:15:07 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 16:15:29 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 16:15:30 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 16:15:32 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 16:15:32 INFO  TestBase:48 - === AseemblyPageTest Ending ===
+2018-03-02 16:15:32 INFO  TestBase:50 - ==================================================================
+
+2018-03-02 16:15:33 INFO  TestBase:73 - === Browser Setup Starting ===
+
+2018-03-02 16:15:39 INFO  TestBase:89 - Initializating firefox browser
+2018-03-02 16:15:39 INFO  TestBase:111 - Deleting all cookies for fresh sesssion
+2018-03-02 16:15:39 INFO  TestBase:115 - Maximizing browser for visibility
+2018-03-02 16:15:44 INFO  TestBase:119 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 16:15:44 INFO  TestBase:123 - Page load timeout set
+2018-03-02 16:15:44 INFO  TestBase:127 - Implicit wait timeout set
+2018-03-02 16:15:44 INFO  TestBase:129 - === Browser Setup Initialized ===
+
+2018-03-02 16:15:44 INFO  TestBase:29 - ==================================================================
+
+2018-03-02 16:15:44 INFO  TestBase:31 - === CleaningPageTest Starting ===
+2018-03-02 16:15:44 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:15:44 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 16:15:44 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 16:15:45 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 16:15:47 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 16:15:48 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 16:15:49 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 16:15:50 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 16:15:50 INFO  TestBase:45 - === CleaningPageTest Ending ===
+2018-03-02 16:15:50 INFO  TestBase:47 - ==================================================================
+
+2018-03-02 16:15:53 INFO  TestBase:73 - === Browser Setup Starting ===
+
+2018-03-02 16:15:59 INFO  TestBase:89 - Initializating firefox browser
+2018-03-02 16:15:59 INFO  TestBase:111 - Deleting all cookies for fresh sesssion
+2018-03-02 16:15:59 INFO  TestBase:115 - Maximizing browser for visibility
+2018-03-02 16:16:03 INFO  TestBase:119 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 16:16:03 INFO  TestBase:123 - Page load timeout set
+2018-03-02 16:16:03 INFO  TestBase:127 - Implicit wait timeout set
+2018-03-02 16:16:03 INFO  TestBase:129 - === Browser Setup Initialized ===
+
+2018-03-02 16:16:03 INFO  TestBase:29 - ==================================================================
+
+2018-03-02 16:16:03 INFO  TestBase:31 - === PaintingPageTest Starting ===
+2018-03-02 16:16:03 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:16:03 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 16:16:03 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 16:16:05 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 16:16:07 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 16:16:08 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 16:16:09 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 16:16:11 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 16:16:11 INFO  TestBase:45 - === PaintingPageTest Ending ===
+2018-03-02 16:16:11 INFO  TestBase:47 - ==================================================================
+
+2018-03-02 16:25:04 INFO  TestBase:83 - ==================================================================
+
+2018-03-02 16:25:04 INFO  TestBase:85 - === Browser Setup Starting ===
+
+2018-03-02 16:25:04 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 16:25:05 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 16:25:06 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 16:25:09 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 16:25:09 INFO  TestBase:144 - Page load timeout set
+2018-03-02 16:25:09 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 16:25:09 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 16:25:09 INFO  TestBase:32 - === AssemblyPageTest Starting ===
+2018-03-02 16:25:09 INFO  TestBase:30 - Verified page title and url
+2018-03-02 16:25:09 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 16:25:09 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 16:25:10 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 16:25:30 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 16:25:50 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 16:26:10 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 16:26:11 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 16:26:14 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 16:26:14 INFO  TestBase:48 - === AseemblyPageTest Ending ===
+2018-03-02 16:26:14 INFO  TestBase:50 - ==================================================================
+
+2018-03-02 16:26:17 INFO  TestBase:83 - ==================================================================
+
+2018-03-02 16:26:17 INFO  TestBase:85 - === Browser Setup Starting ===
+
+2018-03-02 16:26:17 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 16:26:18 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 16:26:19 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 16:26:22 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 16:26:22 INFO  TestBase:144 - Page load timeout set
+2018-03-02 16:26:22 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 16:26:22 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 16:26:22 INFO  TestBase:30 - === CleaningPageTest Starting ===
+2018-03-02 16:26:22 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:26:22 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 16:26:22 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 16:26:23 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 16:26:25 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 16:26:26 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 16:26:27 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 16:26:28 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 16:26:28 INFO  TestBase:44 - === CleaningPageTest Ending ===
+2018-03-02 16:26:28 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 16:26:33 INFO  TestBase:83 - ==================================================================
+
+2018-03-02 16:26:33 INFO  TestBase:85 - === Browser Setup Starting ===
+
+2018-03-02 16:26:33 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 16:26:34 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 16:26:35 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 16:26:37 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 16:26:37 INFO  TestBase:144 - Page load timeout set
+2018-03-02 16:26:37 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 16:26:37 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 16:26:37 INFO  TestBase:30 - === PaintingPageTest Starting ===
+2018-03-02 16:26:37 INFO  TestBase:29 - Verified page title and url
+2018-03-02 16:26:37 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 16:26:37 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 16:26:39 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 16:26:40 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 16:26:41 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 16:26:42 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 16:26:45 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 16:26:45 INFO  TestBase:44 - === PaintingPageTest Ending ===
+2018-03-02 16:26:45 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 17:05:07 INFO  TestBase:83 - ==================================================================
+2018-03-02 17:05:07 INFO  TestBase:85 - === Browser Setup Starting ===
+2018-03-02 17:05:07 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 17:05:08 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 17:05:09 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 17:05:12 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 17:05:12 INFO  TestBase:144 - Page load timeout set
+2018-03-02 17:05:12 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 17:05:12 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 17:05:12 INFO  TestBase:28 - === AssemblyPageTest Starting ===
+2018-03-02 17:05:12 INFO  TestBase:30 - Verified page title and url
+2018-03-02 17:05:12 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 17:05:12 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 17:05:13 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 17:05:33 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 17:05:52 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 17:06:12 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 17:06:13 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 17:06:16 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 17:06:16 INFO  TestBase:44 - === AseemblyPageTest Ending ===
+2018-03-02 17:06:16 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 17:06:19 INFO  TestBase:83 - ==================================================================
+2018-03-02 17:06:19 INFO  TestBase:85 - === Browser Setup Starting ===
+2018-03-02 17:06:19 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 17:06:20 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 17:06:21 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 17:06:24 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 17:06:24 INFO  TestBase:144 - Page load timeout set
+2018-03-02 17:06:24 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 17:06:24 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 17:06:24 INFO  TestBase:30 - === CleaningPageTest Starting ===
+2018-03-02 17:06:24 INFO  TestBase:29 - Verified page title and url
+2018-03-02 17:06:24 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 17:06:24 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 17:06:25 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 17:06:26 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 17:06:27 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 17:06:29 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 17:06:30 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 17:06:30 INFO  TestBase:44 - === CleaningPageTest Ending ===
+2018-03-02 17:06:30 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 17:06:35 INFO  TestBase:83 - ==================================================================
+2018-03-02 17:06:35 INFO  TestBase:85 - === Browser Setup Starting ===
+2018-03-02 17:06:35 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 17:06:36 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 17:06:37 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 17:06:39 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 17:06:39 INFO  TestBase:144 - Page load timeout set
+2018-03-02 17:06:39 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 17:06:39 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 17:06:39 INFO  TestBase:30 - === PaintingPageTest Starting ===
+2018-03-02 17:06:40 INFO  TestBase:29 - Verified page title and url
+2018-03-02 17:06:40 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 17:06:40 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 17:06:41 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 17:06:42 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 17:06:43 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 17:06:44 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 17:06:47 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 17:06:47 INFO  TestBase:44 - === PaintingPageTest Ending ===
+2018-03-02 17:06:47 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 19:00:30 INFO  TestBase:83 - ==================================================================
+2018-03-02 19:00:30 INFO  TestBase:85 - === Browser Setup Starting ===
+2018-03-02 19:00:30 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 19:00:31 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 19:00:32 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 19:00:36 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/furniture-assembly
+2018-03-02 19:00:36 INFO  TestBase:144 - Page load timeout set
+2018-03-02 19:00:36 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 19:00:36 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 19:00:36 INFO  TestBase:28 - === AssemblyPageTest Starting ===
+2018-03-02 19:00:36 INFO  TestBase:30 - Verified page title and url
+2018-03-02 19:00:36 INFO  TestBase:31 - Page title: Furniture Assembly & Building Help | Handy
+2018-03-02 19:00:36 INFO  TestBase:32 - Page URL: https://www.handy.com/services/furniture-assembly
+2018-03-02 19:00:37 INFO  TestBase:46 - Input zip code information: 11201
+2018-03-02 19:00:57 INFO  TestBase:73 - Input number of small sized furniture for project
+2018-03-02 19:01:16 INFO  TestBase:100 - Input number of medium sized furniture for project
+2018-03-02 19:01:36 INFO  TestBase:127 - Input number of large sized furniture for project
+2018-03-02 19:01:37 INFO  TestBase:141 - Input project description: Project details go here
+2018-03-02 19:01:40 INFO  TestBase:171 - Input booking information: 04/15/2018, 3:30 PM, johndoe123@gmail.com
+2018-03-02 19:01:40 INFO  TestBase:44 - === AseemblyPageTest Ending ===
+2018-03-02 19:01:40 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 19:01:43 INFO  TestBase:83 - ==================================================================
+2018-03-02 19:01:43 INFO  TestBase:85 - === Browser Setup Starting ===
+2018-03-02 19:01:43 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 19:01:44 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 19:01:45 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 19:01:47 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/home-cleaning
+2018-03-02 19:01:47 INFO  TestBase:144 - Page load timeout set
+2018-03-02 19:01:47 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 19:01:47 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 19:01:47 INFO  TestBase:30 - === CleaningPageTest Starting ===
+2018-03-02 19:01:48 INFO  TestBase:29 - Verified page title and url
+2018-03-02 19:01:48 INFO  TestBase:30 - Page title: Home Cleaning, House Cleaning, Maid Service | Handy
+2018-03-02 19:01:48 INFO  TestBase:31 - Page URL: https://www.handy.com/services/home-cleaning
+2018-03-02 19:01:49 INFO  TestBase:45 - Input zip code information: 10110
+2018-03-02 19:01:50 INFO  TestBase:59 - Input number of bed rooms for project: 2 beds
+2018-03-02 19:01:51 INFO  TestBase:73 - Input number of bath rooms for project: 2 baths
+2018-03-02 19:01:53 INFO  TestBase:94 - Input date and time of project: 03/09/2018, 7:30 AM
+2018-03-02 19:01:54 INFO  TestBase:108 - Input email address information: johndoe123@gmail.com
+2018-03-02 19:01:54 INFO  TestBase:44 - === CleaningPageTest Ending ===
+2018-03-02 19:01:54 INFO  TestBase:46 - ==================================================================
+
+2018-03-02 19:01:59 INFO  TestBase:83 - ==================================================================
+2018-03-02 19:01:59 INFO  TestBase:85 - === Browser Setup Starting ===
+2018-03-02 19:01:59 INFO  TestBase:87 - Initializing chrome browser
+2018-03-02 19:02:00 INFO  TestBase:132 - Deleting all cookies for fresh sesssion
+2018-03-02 19:02:01 INFO  TestBase:136 - Maximizing browser for visibility
+2018-03-02 19:02:04 INFO  TestBase:140 - Retrieving and navigating to url: https://www.handy.com/services/painting
+2018-03-02 19:02:04 INFO  TestBase:144 - Page load timeout set
+2018-03-02 19:02:04 INFO  TestBase:148 - Implicit wait timeout set
+2018-03-02 19:02:04 INFO  TestBase:150 - === Browser Setup Initialized ===
+
+2018-03-02 19:02:04 INFO  TestBase:30 - === PaintingPageTest Starting ===
+2018-03-02 19:02:04 INFO  TestBase:29 - Verified page title and url
+2018-03-02 19:02:04 INFO  TestBase:30 - Page title: Interior Painting | Handy
+2018-03-02 19:02:04 INFO  TestBase:31 - Page URL: https://www.handy.com/services/painting
+2018-03-02 19:02:05 INFO  TestBase:45 - Input zip code information: 11201
+2018-03-02 19:02:06 INFO  TestBase:59 - Input number of professionals needed for project: 3
+2018-03-02 19:02:07 INFO  TestBase:73 - Input ladder option if necessary: No
+2018-03-02 19:02:08 INFO  TestBase:87 - Input project details if necessary: Project details go here
+2018-03-02 19:02:11 INFO  TestBase:117 - Input booking of paint project: 03/27/2018, 2:30 PM, johndoe123@gmail.com
+2018-03-02 19:02:11 INFO  TestBase:44 - === PaintingPageTest Ending ===
+2018-03-02 19:02:11 INFO  TestBase:46 - ==================================================================
+
+2021-05-25 00:41:38 INFO  TestBase:62 - ==================================================================
+2021-05-25 00:41:38 INFO  TestBase:64 - === Browser Setup Starting ===
+2021-05-25 00:41:38 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 00:41:38 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 00:41:38 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 00:41:40 INFO  TestBase:79 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 00:41:40 INFO  TestBase:83 - Page load timeout set
+2021-05-25 00:41:40 INFO  TestBase:87 - Implicit wait timeout set
+2021-05-25 00:41:40 INFO  TestBase:89 - === Browser Setup Initialized ===
+
+2021-05-25 00:45:13 INFO  TestBase:62 - ==================================================================
+2021-05-25 00:45:13 INFO  TestBase:64 - === Browser Setup Starting ===
+2021-05-25 00:45:13 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 00:45:13 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 00:45:13 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 00:45:15 INFO  TestBase:79 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 00:45:15 INFO  TestBase:83 - Page load timeout set
+2021-05-25 00:45:15 INFO  TestBase:87 - Implicit wait timeout set
+2021-05-25 00:45:15 INFO  TestBase:89 - === Browser Setup Initialized ===
+
+2021-05-25 00:45:52 INFO  TestBase:62 - ==================================================================
+2021-05-25 00:45:52 INFO  TestBase:64 - === Browser Setup Starting ===
+2021-05-25 00:45:52 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 00:45:52 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 00:45:52 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 00:45:54 INFO  TestBase:79 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 00:45:54 INFO  TestBase:83 - Page load timeout set
+2021-05-25 00:45:54 INFO  TestBase:87 - Implicit wait timeout set
+2021-05-25 00:45:54 INFO  TestBase:89 - === Browser Setup Initialized ===
+
+2021-05-25 00:46:23 INFO  TestBase:62 - ==================================================================
+2021-05-25 00:46:23 INFO  TestBase:64 - === Browser Setup Starting ===
+2021-05-25 00:46:23 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 00:46:23 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 00:46:23 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 00:46:25 INFO  TestBase:79 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 00:46:25 INFO  TestBase:83 - Page load timeout set
+2021-05-25 00:46:25 INFO  TestBase:87 - Implicit wait timeout set
+2021-05-25 00:46:25 INFO  TestBase:89 - === Browser Setup Initialized ===
+
+2021-05-25 00:57:15 INFO  TestBase:62 - ==================================================================
+2021-05-25 00:57:15 INFO  TestBase:64 - === Browser Setup Starting ===
+2021-05-25 00:57:15 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 00:57:15 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 00:57:16 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 00:57:18 INFO  TestBase:79 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 00:57:18 INFO  TestBase:83 - Page load timeout set
+2021-05-25 00:57:18 INFO  TestBase:87 - Implicit wait timeout set
+2021-05-25 00:57:18 INFO  TestBase:89 - === Browser Setup Initialized ===
+
+2021-05-25 01:01:47 INFO  TestBase:62 - ==================================================================
+2021-05-25 01:01:47 INFO  TestBase:64 - === Browser Setup Starting ===
+2021-05-25 01:01:47 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 01:01:48 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 01:01:48 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 01:01:49 INFO  TestBase:79 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 01:01:49 INFO  TestBase:83 - Page load timeout set
+2021-05-25 01:01:49 INFO  TestBase:87 - Implicit wait timeout set
+2021-05-25 01:01:49 INFO  TestBase:89 - === Browser Setup Initialized ===
+
+2021-05-25 01:15:50 INFO  TestBase:62 - ==================================================================
+2021-05-25 01:15:50 INFO  TestBase:64 - === Browser Session Starting ===
+2021-05-25 01:15:50 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 01:15:50 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 01:15:50 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 01:15:53 INFO  TestBase:79 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 01:15:53 INFO  TestBase:83 - Page load timeout set
+2021-05-25 01:15:53 INFO  TestBase:87 - Implicit wait timeout set
+2021-05-25 01:15:53 INFO  TestBase:89 - === Browser Session Initialized ===
+
+2021-05-25 01:15:59 INFO  SauceLabsLoginTest:41 - testLoginPage() Test Case Executed
+2021-05-25 01:15:59 INFO  SauceLabsLoginTest:47 - Exiting Browser Session...
+2021-05-25 08:56:53 INFO  TestBase:62 - ==================================================================
+2021-05-25 08:56:53 INFO  TestBase:64 - === Browser Session Starting ===
+2021-05-25 08:56:53 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 08:56:53 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 08:56:54 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 08:56:56 INFO  TestBase:79 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 08:56:56 INFO  TestBase:83 - Page load timeout set
+2021-05-25 08:56:56 INFO  TestBase:87 - Implicit wait timeout set
+2021-05-25 08:56:56 INFO  TestBase:89 - === Browser Session Initialized ===
+
+2021-05-25 08:57:02 INFO  SauceDemoLoginTest:42 - testLoginPage() Test Case Executed
+2021-05-25 08:57:02 INFO  SauceDemoLoginTest:48 - Exiting Browser Session...
+2021-05-25 09:17:59 INFO  TestBase:64 - === Browser Session Starting ===
+2021-05-25 09:17:59 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 09:17:59 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 09:17:59 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 09:18:00 INFO  TestBase:81 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 09:18:00 INFO  TestBase:85 - Page load timeout set
+2021-05-25 09:18:00 INFO  TestBase:89 - Implicit wait timeout set
+2021-05-25 09:18:00 INFO  TestBase:91 - === Browser Session Initialized ===
+2021-05-25 09:18:00 INFO  SauceDemoLoginTest:27 - testLoginPage() Test Case
+2021-05-25 09:18:07 INFO  SauceDemoLoginTest:51 - Exiting Browser Session...
+2021-05-25 09:19:11 INFO  TestBase:64 - === Browser Session Starting ===
+2021-05-25 09:19:11 INFO  TestBase:66 - Initializing chrome browser
+2021-05-25 09:19:11 INFO  TestBase:71 - Deleting all cookies for fresh sesssion
+2021-05-25 09:19:12 INFO  TestBase:75 - Maximizing browser for visibility
+2021-05-25 09:19:14 INFO  TestBase:81 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-25 09:19:14 INFO  TestBase:85 - Page load timeout set
+2021-05-25 09:19:14 INFO  TestBase:89 - Implicit wait timeout set
+2021-05-25 09:19:14 INFO  TestBase:91 - === Browser Session Initialized ===
+2021-05-25 09:19:14 INFO  SauceDemoLoginTest:27 - testLoginPage() Test Case
+2021-05-25 09:19:20 INFO  SauceDemoLoginTest:45 - testLoginPage() Test Case Executed
+2021-05-25 09:19:20 INFO  SauceDemoLoginTest:51 - Exiting Browser Session...
+2021-05-27 01:02:11 INFO  SauceDemoLoginTest:22 - Starting Browser Session...
+2021-05-27 01:02:19 INFO  TestBase:53 - === Browser Session Starting ===
+2021-05-27 01:02:19 INFO  TestBase:55 - Initializing chrome browser
+2021-05-27 01:02:19 INFO  TestBase:60 - Deleting all cookies for fresh sesssion
+2021-05-27 01:02:19 INFO  TestBase:64 - Maximizing browser for visibility
+2021-05-27 01:02:21 INFO  TestBase:70 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-27 01:02:21 INFO  TestBase:74 - Page load timeout set
+2021-05-27 01:02:21 INFO  TestBase:78 - Implicit wait timeout set
+2021-05-27 01:02:21 INFO  TestBase:80 - === Browser Session Initialized ===
+2021-05-27 01:02:21 INFO  SauceDemoLoginTest:28 - testLoginPage() Test Case Started
+2021-05-27 01:02:28 INFO  SauceDemoLoginTest:54 - testLoginPage() Test Case Ended
+2021-05-27 01:02:28 INFO  SauceDemoLoginTest:60 - Exiting Browser Session...
+2021-05-27 01:18:51 INFO  SauceDemoLoginTest:22 - Starting Browser Session...
+2021-05-27 01:18:58 INFO  TestBase:53 - === Browser Session Starting ===
+2021-05-27 01:18:58 INFO  TestBase:55 - Initializing chrome browser
+2021-05-27 01:18:58 INFO  TestBase:60 - Deleting all cookies for fresh sesssion
+2021-05-27 01:18:58 INFO  TestBase:64 - Maximizing browser for visibility
+2021-05-27 01:19:01 INFO  TestBase:70 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-05-27 01:19:01 INFO  TestBase:74 - Page load timeout set
+2021-05-27 01:19:01 INFO  TestBase:78 - Implicit wait timeout set
+2021-05-27 01:19:01 INFO  TestBase:80 - === Browser Session Initialized ===
+2021-05-27 01:19:01 INFO  SauceDemoLoginTest:28 - testLoginPage() Test Case Started
+2021-05-27 01:19:07 INFO  SauceDemoLoginTest:54 - testLoginPage() Test Case Ended
+2021-05-27 01:19:07 INFO  SauceDemoLoginTest:60 - Exiting Browser Session...
+2021-06-10 16:45:00 INFO  SauceDemoLoginTest:22 - Starting Browser Session...
+2021-06-10 16:46:55 INFO  SauceDemoLoginTest:22 - Starting Browser Session...
+2021-06-10 16:46:56 INFO  TestBase:53 - === Browser Session Starting ===
+2021-06-10 16:46:56 INFO  TestBase:55 - Initializing chrome browser
+2021-06-10 16:46:56 INFO  TestBase:60 - Deleting all cookies for fresh sesssion
+2021-06-10 16:46:56 INFO  TestBase:64 - Maximizing browser for visibility
+2021-06-10 16:46:57 INFO  TestBase:70 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-06-10 16:46:57 INFO  TestBase:74 - Page load timeout set
+2021-06-10 16:46:57 INFO  TestBase:78 - Implicit wait timeout set
+2021-06-10 16:46:57 INFO  TestBase:80 - === Browser Session Initialized ===
+2021-06-10 16:46:57 INFO  SauceDemoLoginTest:28 - testLoginPage() Test Case Started
+2021-06-10 16:47:02 INFO  SauceDemoLoginTest:54 - testLoginPage() Test Case Ended
+2021-06-10 16:47:02 INFO  SauceDemoLoginTest:60 - Exiting Browser Session...
+2021-06-10 16:47:17 INFO  SauceDemoLoginTest:22 - Starting Browser Session...
+2021-06-10 16:47:18 INFO  TestBase:53 - === Browser Session Starting ===
+2021-06-10 16:47:18 INFO  TestBase:55 - Initializing chrome browser
+2021-06-10 16:47:18 INFO  TestBase:60 - Deleting all cookies for fresh sesssion
+2021-06-10 16:47:18 INFO  TestBase:64 - Maximizing browser for visibility
+2021-06-10 16:47:18 INFO  TestBase:70 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-06-10 16:47:18 INFO  TestBase:74 - Page load timeout set
+2021-06-10 16:47:18 INFO  TestBase:78 - Implicit wait timeout set
+2021-06-10 16:47:18 INFO  TestBase:80 - === Browser Session Initialized ===
+2021-06-10 16:47:18 INFO  SauceDemoLoginTest:28 - testLoginPage() Test Case Started
+2021-06-10 16:47:23 INFO  SauceDemoLoginTest:54 - testLoginPage() Test Case Ended
+2021-06-10 16:47:23 INFO  SauceDemoLoginTest:60 - Exiting Browser Session...
+2021-06-12 13:51:56 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 13:51:56 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 13:51:56 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 13:51:56 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 13:51:57 INFO  TestBase:74 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-06-12 13:51:57 INFO  TestBase:78 - Page load timeout set
+2021-06-12 13:51:57 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 13:51:57 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 13:51:57 INFO  SauceDemoLoginTest:22 - Starting Browser Session...
+2021-06-12 13:51:58 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 13:51:58 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 13:51:58 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 13:51:58 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 13:51:58 INFO  TestBase:74 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-06-12 13:51:58 INFO  TestBase:78 - Page load timeout set
+2021-06-12 13:51:58 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 13:51:58 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 13:52:04 INFO  SauceDemoLoginTest:28 - testLoginPage() Test Case Started
+2021-06-12 13:52:04 INFO  SauceDemoLoginTest:60 - Exiting Browser Session...
+2021-06-12 13:53:55 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 13:53:55 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 13:53:55 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 13:53:55 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 13:53:55 INFO  TestBase:74 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-06-12 13:53:55 INFO  TestBase:78 - Page load timeout set
+2021-06-12 13:53:55 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 13:53:55 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 13:53:55 INFO  SauceDemoLoginTest:22 - Starting Browser Session...
+2021-06-12 13:53:56 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 13:53:56 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 13:53:56 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 13:53:56 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 13:53:57 INFO  TestBase:74 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-06-12 13:53:57 INFO  TestBase:78 - Page load timeout set
+2021-06-12 13:53:57 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 13:53:57 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 13:54:17 INFO  SauceDemoLoginTest:28 - testLoginPage() Test Case Started
+2021-06-12 13:54:22 INFO  SauceDemoLoginTest:54 - testLoginPage() Test Case Ended
+2021-06-12 13:54:22 INFO  SauceDemoLoginTest:60 - Exiting Browser Session...
+2021-06-12 13:57:59 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 13:57:59 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 13:57:59 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 13:57:59 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 13:58:00 INFO  TestBase:74 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-06-12 13:58:00 INFO  TestBase:78 - Page load timeout set
+2021-06-12 13:58:00 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 13:58:00 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 13:58:20 INFO  SauceDemoLoginTest:21 - testLoginPage() Test Case Started
+2021-06-12 13:58:26 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:29039: Connection reset
+2021-06-12 13:58:26 INFO  RetryExec:113 - Retrying request to {}->http://localhost:29039
+2021-06-12 14:01:25 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 14:01:25 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 14:01:25 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 14:01:25 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:01:26 INFO  TestBase:74 - Retrieving and navigating to url: https://www.saucedemo.com/
+2021-06-12 14:01:26 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:01:26 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:01:26 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:04:16 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 14:04:16 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 14:04:16 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 14:04:16 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:04:59 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 14:04:59 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 14:04:59 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 14:04:59 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:05:01 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:05:01 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:05:01 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:05:01 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:05:01 INFO  SauceDemoLoginTest:21 - testLoginPage() Test Case Started
+2021-06-12 14:08:27 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 14:08:27 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 14:08:27 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 14:08:27 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:08:28 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:08:28 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:08:28 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:08:28 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:08:44 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 14:08:44 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 14:08:44 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 14:08:44 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:08:45 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:08:45 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:08:45 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:08:45 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:10:08 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 14:10:08 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 14:10:08 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 14:10:08 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:10:09 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:10:09 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:10:09 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:10:09 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:11:04 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 14:11:04 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 14:11:04 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 14:11:04 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:11:05 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:11:05 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:11:05 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:11:05 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:11:16 INFO  TestBase:57 - === Browser Session Starting ===
+2021-06-12 14:11:16 INFO  TestBase:59 - Initializing chrome browser
+2021-06-12 14:11:16 INFO  TestBase:64 - Deleting all cookies for fresh sesssion
+2021-06-12 14:11:16 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:11:18 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:11:18 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:11:18 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:11:18 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:19:58 INFO  TestBase:58 - === Browser Session Starting ===
+2021-06-12 14:19:58 INFO  TestBase:60 - Initializingchromebrowser
+2021-06-12 14:19:58 INFO  TestBase:64 - Deleting all cookies for fresh session
+2021-06-12 14:19:58 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:19:59 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:19:59 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:19:59 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:19:59 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:25:29 INFO  TestBase:58 - === Browser Session Starting ===
+2021-06-12 14:25:29 INFO  TestBase:60 - Initializingfirefoxbrowser
+2021-06-12 14:25:29 INFO  TestBase:64 - Deleting all cookies for fresh session
+2021-06-12 14:25:29 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:25:30 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:25:30 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:25:30 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:25:30 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:25:44 INFO  TestBase:58 - === Browser Session Starting ===
+2021-06-12 14:25:44 INFO  TestBase:60 - Initializingfirefoxbrowser
+2021-06-12 14:25:44 INFO  TestBase:64 - Deleting all cookies for fresh session
+2021-06-12 14:25:44 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:25:46 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:25:46 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:25:46 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:25:46 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:30:19 INFO  TestBase:58 - === Browser Session Starting ===
+2021-06-12 14:30:19 INFO  TestBase:60 - Initializingchromebrowser
+2021-06-12 14:30:19 INFO  TestBase:64 - Deleting all cookies for fresh session
+2021-06-12 14:30:19 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:30:20 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:30:20 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:30:20 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:30:20 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 14:30:33 INFO  TestBase:58 - === Browser Session Starting ===
+2021-06-12 14:30:33 INFO  TestBase:60 - Initializingchromebrowser
+2021-06-12 14:30:33 INFO  TestBase:64 - Deleting all cookies for fresh session
+2021-06-12 14:30:33 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 14:30:35 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 14:30:35 INFO  TestBase:78 - Page load timeout set
+2021-06-12 14:30:35 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 14:30:35 INFO  TestBase:84 - === Browser Session Initialized ===
+2021-06-12 15:53:35 INFO  TestBase:58 - === Browser Session Starting ===
+2021-06-12 15:53:35 INFO  TestBase:60 - Initializingchromebrowser
+2021-06-12 15:53:35 INFO  TestBase:64 - Deleting all cookies for fresh session
+2021-06-12 15:53:36 INFO  TestBase:68 - Maximizing browser for visibility
+2021-06-12 15:53:37 INFO  TestBase:74 - Retrieving and navigating to url: https://www.mortgagecalculator.org/
+2021-06-12 15:53:37 INFO  TestBase:78 - Page load timeout set
+2021-06-12 15:53:37 INFO  TestBase:82 - Implicit wait timeout set
+2021-06-12 15:53:37 INFO  TestBase:84 - === Browser Session Initialized ===
